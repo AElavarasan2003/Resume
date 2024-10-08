@@ -1,0 +1,32 @@
+.bg{
+    background-image: url(03.jpg );
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+nav{
+    
+    padding: 20px;
+
+}
+li,ul{
+    display: inline;
+
+}
+.Resume{
+    display: inline;
+    color: rgb(65, 243, 10);
+}
+ul{
+    color: blue;
+    padding: 5px;
+    margin-left: 70%;
+    border-color: crimson;
+    border-width: 4%;
+    border-style: groove;
+}
+li{
+    color: green;
+}
+li:hover0{
+color: blueviolet;
+}

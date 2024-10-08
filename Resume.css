@@ -1,0 +1,45 @@
+.bg{
+    background-image: url(01.jpg );
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+nav{
+    padding: 20px;
+}
+li,ul{
+    color: black;
+    display: inline;
+
+}
+.Resume{
+    display: inline;
+    color: rgb(120, 248, 0);
+}
+ul{
+    color: blue;
+    padding: 5px;
+    margin-left: 70%;
+    border-color: crimson;
+    border-width: 4%;
+    border-style: groove;
+}
+li{
+    color: green;
+}
+li:hover0{
+color: rgba(24, 85, 0, 0.315);
+}
+.ELAVARASAN{
+    color: rgb(255, 0, 255);
+}
+.Graphic{
+    color: rgb(128, 0, 0);
+}
+.hi{
+    color: chartreuse;
+    stroke-width: 2%;
+    -webkit-text-stroke-color: rgb(173, 9, 17) ;
+}
+.fr{
+    color: rgb(70, 2, 2);
+}

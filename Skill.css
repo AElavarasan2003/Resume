@@ -1,0 +1,39 @@
+.bg{
+    background-image: url(05.png );
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+nav{
+    
+    padding: 20px;
+
+}
+li,ul{
+    display: inline;
+
+}
+.Resume{
+    display: inline;
+    color: rgb(60, 255, 0);
+}
+ul{
+    color: blue;
+    padding: 5px;
+    margin-left: 70%;
+    border-color: crimson;
+    border-width: 4%;
+    border-style: groove;
+}
+li{
+    color: green;
+}
+li:hover0{
+color: blueviolet;
+}
+div{
+    display: inline-block;
+    padding: 1%;
+    border-color: yellow;
+    border-width: 5%;
+    border-style: groove;
+}
